@@ -12,4 +12,4 @@ Other Links:
 
 [C-111 Project Area Water Depth Assessment Tool](https://www.sfwmd.gov/science-data/modeling/wdat)
 
-In this repository you can find flow and water quality data retrived from the South Florida Water Management District [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu). Monitoring location metadata including flow DBKEY (unique identifier for a data set or time series) and flow-water quality station pairings.  
+In this repository you can find flow and water quality data retrived from the South Florida Water Management District [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu). Monitoring location [metadata]() including flow DBKEY (unique identifier for a data set or time series) and flow-water quality station pairings.  
