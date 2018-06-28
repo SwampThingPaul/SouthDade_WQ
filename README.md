@@ -12,7 +12,7 @@ Other Links:
 
 [C-111 Project Area Water Depth Assessment Tool](https://www.sfwmd.gov/science-data/modeling/wdat)
 
-In this repository you can find flow and water quality data ([REPORT_flow.csv](https://github.com/SwampThingPaul/SouthDade_WQ/blob/bac0668527b3451fc6fc41be21bc6d2e2407631f/REPORT_flow.csv) and [REPORT_WQ.csv](https://github.com/SwampThingPaul/SouthDade_WQ/blob/bac0668527b3451fc6fc41be21bc6d2e2407631f/REPORT_WQ.csv), respectively in the main branch) retrived from the South Florida Water Management District [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu). Monitoring location [metadata](https://github.com/SwampThingPaul/SouthDade_WQ/blob/297748fc97aaddc91eebb4aede0e3acd62d75927/DataInventory_existing.xlsx) including flow DBKEY (unique identifier for a data set or time series) and flow-water quality station pairings.  
+In this repository you can find flow and water quality data ([REPORT_flow.csv](https://github.com/SwampThingPaul/SouthDade_WQ/blob/bac0668527b3451fc6fc41be21bc6d2e2407631f/REPORT_flow.csv) and [REPORT_WQ.csv](https://github.com/SwampThingPaul/SouthDade_WQ/blob/bac0668527b3451fc6fc41be21bc6d2e2407631f/REPORT_WQ.csv), respectively in the main branch) retrieved from the South Florida Water Management District [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu). Monitoring location [metadata](https://github.com/SwampThingPaul/SouthDade_WQ/blob/297748fc97aaddc91eebb4aede0e3acd62d75927/DataInventory_existing.xlsx) including flow DBKEY (unique identifier for a data set or time series) and flow-water quality station pairings.  
 
 
 *** 
