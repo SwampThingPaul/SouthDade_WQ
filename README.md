@@ -17,4 +17,4 @@ In this repository you can find flow and water quality data ([REPORT_flow.csv](h
 
 *** 
 
-A South-Dade Conveyance System hydrology and water quality dashboard can be found at this [link](http://publicfiles.dep.state.fl.us/owp/SouthDade_Info/SouthDade_summary.html) which provides an interactive link and information for each major structure within the South-Dade project area along the eastern boarder of Everglades National Park south of the S-331 structure. This information is provisional and subject to change. 
+A South-Dade Conveyance System hydrology and water quality dashboard can be found at this [link](http://goo.gl/QktErtQ) which provides an interactive link and information for each major structure within the South-Dade project area along the eastern boarder of Everglades National Park south of the S-331 structure. This information is provisional and subject to change. 
